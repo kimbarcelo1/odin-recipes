@@ -1,0 +1,29 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container {
+    background-color: #EEE;
+    border: 1px solid black;
+    box-sizing: border-box;
+    width: 600px;
+    margin: 30px auto 0;
+}
+
+.title {
+    padding: 10px;
+    background-color: aliceblue;
+    text-align: center;
+    margin-top: 0;
+    border-bottom: 1px solid black;
+}
+
+.pad {
+    padding: 20px;
+}
+
+img {
+    margin: 0 auto;
+    display: block;
+    border: 1px solid gray;
+}
